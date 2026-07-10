@@ -1,0 +1,20 @@
+{
+  "name": "rascal-riot",
+  "displayName": "Rascal Riot",
+  "description": "A bold, saturated dark theme in black, red, teal, and gold — inspired by a mischievous rat-themed character with mismatched punk-pop styling.",
+  "version": "1.0.1",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rascal Riot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rascal-riot-color-theme.json"
+      }
+    ]
+  }
+}

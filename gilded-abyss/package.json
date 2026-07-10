@@ -1,0 +1,20 @@
+{
+  "name": "gilded-abyss",
+  "displayName": "Gilded Abyss",
+  "description": "A dark theme in deep violet-black, molten gold-orange, and crimson — inspired by a horned, halo-wearing angel-demon character wound in patterned tentacles.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gilded Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gilded-abyss-color-theme.json"
+      }
+    ]
+  }
+}
