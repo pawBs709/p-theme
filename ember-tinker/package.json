@@ -1,0 +1,20 @@
+{
+  "name": "ember-tinker",
+  "displayName": "Ember Tinker",
+  "description": "A warm umber-black dark theme in gold, vermillion, and brass — inspired by a goggled tinker character with golden hair and fiery red-orange accents.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ember Tinker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ember-tinker-color-theme.json"
+      }
+    ]
+  }
+}
