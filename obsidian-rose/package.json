@@ -1,0 +1,20 @@
+{
+  "name": "obsidian-rose",
+  "displayName": "Obsidian Rose (High Contrast)",
+  "description": "A high-contrast dark theme in obsidian black, crimson red, lavender, and gold — inspired by a gothic rose-themed character illustration.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidian Rose (High Contrast)",
+        "uiTheme": "hc-black",
+        "path": "./themes/obsidian-rose-color-theme.json"
+      }
+    ]
+  }
+}

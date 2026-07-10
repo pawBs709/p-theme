@@ -1,0 +1,20 @@
+{
+  "name": "starlit-muse",
+  "displayName": "Starlit Muse",
+  "description": "A dark theme in deep starlit navy, platinum silver, lavender, and gold — inspired by a starry-collared character illustration.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Starlit Muse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starlit-muse-color-theme.json"
+      }
+    ]
+  }
+}

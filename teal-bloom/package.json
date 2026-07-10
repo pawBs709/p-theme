@@ -1,0 +1,20 @@
+{
+  "name": "teal-bloom",
+  "displayName": "Teal Bloom",
+  "description": "A moody dark theme in charcoal, teal, and blush pink — inspired by a bucket-hatted, teal-rose character illustration with a single falling tear.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Teal Bloom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/teal-bloom-color-theme.json"
+      }
+    ]
+  }
+}
