@@ -1,0 +1,20 @@
+{
+  "name": "marigold-hare",
+  "displayName": "Marigold Hare",
+  "description": "A bright, warm dark theme in magenta, gold, red, and cobalt blue — inspired by a cheerful bunny-eared character in a golden dress with red trim and a blue gem pendant.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Marigold Hare",
+        "uiTheme": "vs-dark",
+        "path": "./themes/marigold-hare-color-theme.json"
+      }
+    ]
+  }
+}

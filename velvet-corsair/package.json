@@ -1,0 +1,20 @@
+{
+  "name": "velvet-corsair",
+  "displayName": "Velvet Corsair",
+  "description": "A plum-black gothic dark theme in sky blue, crimson, and antique gold — inspired by a pirate-witch character with indigo hair, a crimson streak, and striking blue eyes.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Velvet Corsair",
+        "uiTheme": "vs-dark",
+        "path": "./themes/velvet-corsair-color-theme.json"
+      }
+    ]
+  }
+}
