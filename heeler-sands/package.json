@@ -1,0 +1,20 @@
+{
+  "name": "heeler-sands",
+  "displayName": "Heeler Sands",
+  "description": "A warm sand-grey dark theme in cobalt blue, rust orange, and cream, inspired by a beach scene with a family of cartoon blue and red heeler dogs.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Heeler Sands",
+        "uiTheme": "vs-dark",
+        "path": "./themes/heeler-sands-color-theme.json"
+      }
+    ]
+  }
+}
