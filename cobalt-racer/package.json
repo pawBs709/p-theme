@@ -1,0 +1,20 @@
+{
+  "name": "cobalt-racer",
+  "displayName": "Cobalt Racer",
+  "description": "A warm graphite dark theme in indigo blue, sky blue, and gold, inspired by a blonde racing-themed character in a blue and white jacket with a gold NEO badge.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cobalt Racer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cobalt-racer-color-theme.json"
+      }
+    ]
+  }
+}
