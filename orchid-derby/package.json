@@ -1,0 +1,22 @@
+{
+  "name": "orchid-derby",
+  "displayName": "Orchid Derby",
+  "description": "A deep plum theme in orchid magenta, violet, and gold, inspired by a racing idol with a white-streaked brown bob, violet eyes, an orchid sailor jacket, and a gold-buttoned purple vest.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orchid Derby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/orchid-derby-color-theme.json"
+      }
+    ]
+  }
+}
