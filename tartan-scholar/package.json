@@ -1,0 +1,22 @@
+{
+  "name": "tartan-scholar",
+  "displayName": "Tartan Scholar",
+  "description": "A deep forest-green theme in citron plaid, sky blue, and tan leather, inspired by a bespectacled character with a braided slate-violet bob, bright blue eyes, a gold-trimmed green coat, and a yellow-green tartan scarf.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tartan Scholar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tartan-scholar-color-theme.json"
+      }
+    ]
+  }
+}
