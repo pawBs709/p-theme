@@ -1,0 +1,22 @@
+{
+  "name": "ivory-regalia",
+  "displayName": "Ivory Regalia",
+  "description": "A deep mahogany theme in ivory, sash rose, and gold braid, inspired by a chestnut-haired horse girl in a gold-buttoned ivory dress uniform with a pink crowned armband and sash.",
+  "version": "1.1.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ivory Regalia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ivory-regalia-color-theme.json"
+      }
+    ]
+  }
+}
