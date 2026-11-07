@@ -1,0 +1,22 @@
+{
+  "name": "clover-sprint",
+  "displayName": "Clover Sprint",
+  "description": "A silver-slate theme in leaf green, sky blue, and marigold, inspired by a grey-haired horse girl with bright blue eyes, a mint hoodie with a green collar, green shorts, and an orange hair clip.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Clover Sprint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/clover-sprint-color-theme.json"
+      }
+    ]
+  }
+}
