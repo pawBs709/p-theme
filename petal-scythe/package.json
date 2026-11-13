@@ -1,0 +1,22 @@
+{
+  "name": "petal-scythe",
+  "displayName": "Petal Scythe",
+  "description": "A charcoal-plum theme in fuchsia, lilac, and gold, inspired by a scythe-wielding girl in a violet ruffled dress, white fur cape with crimson zigzags, gold belt, and a pink flower in her hair.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Petal Scythe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/petal-scythe-color-theme.json"
+      }
+    ]
+  }
+}
