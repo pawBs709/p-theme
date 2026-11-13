@@ -1,0 +1,22 @@
+{
+  "name": "prism-wink",
+  "displayName": "Prism Wink",
+  "description": "A royal-navy theme in tangerine, electric blue, and sunshine yellow, inspired by a winking brown-haired horse girl with electric blue streaks, a cobalt tee with an orange-and-yellow stripe, cyan triangle charms, and rainbow bracelets.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Prism Wink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/prism-wink-color-theme.json"
+      }
+    ]
+  }
+}
